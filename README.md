@@ -1,2 +1,1 @@
-# Project22
-archery 
+# project-C22-template
